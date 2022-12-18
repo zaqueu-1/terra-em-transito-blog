@@ -1,0 +1,28 @@
+.about {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.about p {
+  color: #aaa;
+  margin-bottom: 2rem;
+  text-align: justify;
+  padding: 0 3rem;
+  margin: .4rem 3rem;
+}
+
+.subtitle {
+  text-decoration: underline;
+}
+
+.about a {
+  display: block;
+  margin-top: 1rem;
+  padding: 0.6rem 0.9rem;
+}
+
+.about span {
+  font-weight: 200;
+}

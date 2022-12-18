@@ -1,0 +1,48 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchbox {
+  display: flex;
+  width: 100%;
+}
+
+.search_form {
+  max-width: 100%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.search_form input {
+  margin-right: 0.6rem;
+  width: 50%;
+}
+
+.noposts {
+  text-align: center;
+}
+
+.noposts p {
+  margin-bottom: 1.2rem;
+}
+
+h2 {
+  color: rgb(28,28,28);
+}
+
+.noposts a {
+  padding: 0.6rem 1.5rem;
+}
+
+.postlist {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+}
