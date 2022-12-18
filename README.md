@@ -6,7 +6,7 @@
 Custom blog developed to UERJ researchers so they can allocate content about their essays and research material. It'll also be used as a platform on which students will be able to contribute and create content.
 ## Demo
 
-![demo](https://github.com/zaqueu-1/teamzed-next/blob/main/chrome-capture-2022-11-16%20(4).gif)
+![demo](https://github.com/zaqueu-1/terra-em-transito-blog/blob/main/chrome-capture-2022-11-18.gif)
 
 ## Deploy
 https://zaqueu-qr.vercel.app/
