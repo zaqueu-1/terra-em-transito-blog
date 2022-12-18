@@ -9,7 +9,7 @@ Custom blog developed to UERJ researchers so they can allocate content about the
 ![demo](https://github.com/zaqueu-1/terra-em-transito-blog/blob/main/chrome-capture-2022-11-18.gif)
 
 ## Deploy
-https://zaqueu-qr.vercel.app/
+https://terraemtransito.vercel.app/
 ## Roadmap
 
 - finish CSS and general styles;
